@@ -1,0 +1,29 @@
+
+@import url('https://fonts.googleapis.com/css?family=Turret+Road:500&display=swap');
+
+
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: mediumspringgreen;
+    background-repeat: no-repeat;
+    text-align: center;
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+  }
+
+  #canvas {
+      height:500px;
+      width: 700px;
+      border: 5pt solid palegreen;
+      
+  }
+
+h1 {
+     background-color: white;
+     color: rgb(93, 187, 164);
+     font-family: 'Turret Road', cursive;
+     padding: 0.4em;
+  }
